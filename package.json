@@ -1,0 +1,23 @@
+{
+  "name": "tmpl.js",
+  "version": "0.1.0",
+  "description": "A Javasript Template Engine",
+  "main": "tmpl.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devWayne/tmpl.js.git"
+  },
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "author": "VI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/tmpl.js/issues"
+  },
+  "homepage": "https://github.com/devWayne/tmpl.js"
+}
